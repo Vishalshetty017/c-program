@@ -1,0 +1,38 @@
+*****ENTER TEACHER DETAILS*******
+Enter Name:
+vineeth malla bvc gena
+Enter Staff ID:
+69
+Enter Phone number:
+690690690690
+Enter Qualifications:
+fk  
+Enter Achievements:
+12 children
+
+******************************************
+Name=vineeth malla bvc gena
+Staff Id=69
+Phone no.=690690690690
+Qualifications=fk
+Achievements=12 children
+******************************************
+
+*****ENTER STUDENT DETAILS*******
+Enter Name:
+
+Enter USN:
+vishal
+Enter Phone number:
+9609696096 
+Enter your Discipline:
+quit
+Enter your result percentage:
+90
+******************************************
+Name=
+USN=vishal
+Phone no.=9609696096
+Discipline=quit
+Result=90%
+******************************************
